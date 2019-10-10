@@ -202,3 +202,8 @@ Hacking the image processing
 * Hint: Read -h of the finger control program
 
 .. image:: images/help_finger_control.png
+
+----
+
+https://github.com/hacktoberfestmunich/progini
+----------------------------------------------
