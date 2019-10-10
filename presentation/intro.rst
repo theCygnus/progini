@@ -136,7 +136,7 @@ How does it work
 Lantern-Blox
 ------------
 
-* Maulwurf-like demo game
+* 'Whack a mole' like demo game
 * Click the boxes when they appear
 * Javascript + executed in full screen browser on lantern projector
 
