@@ -41,8 +41,8 @@ Simon Ashdown
 Important things first
 ----------------------
 
-* Schnitzel will arive at about 8:00 PM.
-* Drinks and snacks in the kitchen.
+* Schnitzel will be ready right after the presentation.
+* Drinks and snacks are in the kitchen.
 
 We also have vegetarians covered. ;)
 
@@ -120,8 +120,8 @@ How does it work
 
 1. Take a grayscale image
 2. Apply erosion
-3. Detect Motion by comparing with previous image
-4. On Motion search for the bigest contour
+3. Detect motion by comparing with previous image
+4. On motion search for the biggest contour
 5. Take the point with the biggest distance to the sides
 6. Move the mouse pointer there
 
@@ -138,7 +138,7 @@ Lantern-Blox
 
 * Maulwurf-like demo game
 * Click the boxes when they appear
-* Javascript + executed in fullscreen browser on lantern projector
+* Javascript + executed in full screen browser on lantern projector
 
 
 ----
@@ -149,7 +149,7 @@ Now is your turn
 ----------------
 
 * Develop your own app / game
-	* UI for Homeautomation
+	* UI for home automation
 	* Memory
 	* ...
 * Improve the finger-detection
